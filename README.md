@@ -24,4 +24,10 @@
   - Git installed on your system
   - A Heroku account
   - A GitHub account
-    
+
+### Footnote
+
+>Reference[^1]. 
+
+>[^1]: circleci Blog/Fikayo Adepoju/Continuous deployment of Node apps to Heroku.
+
